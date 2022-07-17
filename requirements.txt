@@ -1,0 +1,13 @@
+opencv-python
+
+pyqt5
+
+numpy
+
+moviepy
+
+tensorflow 
+
+pandas 
+
+labelImg
