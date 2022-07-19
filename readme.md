@@ -24,12 +24,17 @@
 </ul>
 
 <h1 id="training">Training</h1>
+<p>To begin trainining your own model. In the terminal enter "python main.py train --folderPath <Path> --trainSize <int>".
+   A label image gui will automatically pop up. you will select either the test or train folder from this program to begin adding your bounding boxes. 
+   Be sure to change your save dir (under file->change save dir) to the same folder you are working on. Once finished you will get another pop-up to do the remaining folder.
+   Note: Use only PascalVoc for annotaion. For useful information on how to use this tool press help and view the tutorials.
+</p>
 <ul>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
+  <li>If there are images you do not want to use just do not place bounding boxes and they will be removed.</li>
+  <li>The xml files created are removed by the program after they are converted to csv.</li>
+  <li></li>
 </ul>
-lablImage only use the voc labeler
-   use test and train directory inside the program for dir selection and save location
+
+
+
 
